@@ -1,0 +1,14 @@
+﻿Method,Local test,Online,Run Time
+Random Forest,0.7809085681426107,0.78559,15.1s
+Random Forest+HPO,0.7981598619896493,0.79658,"119.7s
+
+"
+Naive Bayes,0.7153536515238643,0.71872,"15.3s
+"
+Naive Bayes+HPO,0.7297297297297297,0.74,17.5s
+Decision Tree,0.7320299022426682,"0.72691
+
+",14.7s
+Decision tree+HPO,0.7596319723979299,0.77928,"15.3s
+
+"
